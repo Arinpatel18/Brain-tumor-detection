@@ -1,0 +1,6 @@
+streamlit
+torch
+matplotlib
+ultralytics
+pillow
+numpy
